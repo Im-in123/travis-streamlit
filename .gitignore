@@ -37,5 +37,3 @@ yarn-error.log*
 /RTA Dataset.csv.zip
 /.ipynb_checkpoints
 Untitled.ipynb
-
-rta_model_deploy3.joblib
